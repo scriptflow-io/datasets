@@ -4,6 +4,8 @@ Forked from [Plotly Datasets](https://github.com/plotly/datasets) with additiona
 
 License: [GPL-3](https://github.com/scriptflow-io/datasets/blob/master/LICENSE)
 
+License for Chinook Database: [MIT](https://github.com/scriptflow-io/datasets/blob/master/sqlite/CHINOOK-LICENSE)
+
 | Dataset name | Best for | Origin | Download | Open in Scriptflow |
 | --- | --- | --- | ---  | ---  |
 | Walmart store openings | Maps | Unknown | [Download](https://github.com/scriptflow-io/datasets/blob/master/1962_2006_walmart_store_openings.csv) |  |
